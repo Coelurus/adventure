@@ -1,0 +1,41 @@
+víno:HP=4=consumable
+pivo:HP=4=consumable
+voda:HP=5=consumable
+čaj:HP=3=consumable
+jablko:HP=4=consumable
+shnilé maso:HP=-1=consumable
+močka:HP=-3=consumable
+krysí bobky:HP=-3=consumable
+myš:HP=1=consumable
+shnilá myš:HP=-2=consumable
+noha jidáše:HP=3=consumable
+trhaná kůže:HP=1=consumable
+sýr:HP=3=consumable
+velikonoční jidáš:HP=3=consumable
+esence polibku:HP=2=consumable
+
+kožená čapka:armor=2=equip=gear=helma
+kožené rukavice:armor=2=equip=gear=torso
+kožené kalhoty:armor=2=equip=gear=kalhoty
+
+plátěná čapka:armor=1=equip=gear=helma
+plátěné rukavice:armor=1=equip=gear=torso
+plátěné kalhoty:armor=1=equip=gear=kalhoty
+
+bavlněná čapka:armor=0=equip=gear=helma
+bavlněné rukavice:armor=0=equip=gear=torso
+bavlněné kalhoty:armor=0=equip=gear=kalhoty
+
+jidášův klobouk:armor=1=equip=gear=helma
+
+medvědí zub:DMG=1=equip=weapon=zbraň
+oprátka:DMG=1=equip=weapon=zbraň
+krysí ocas:DMG=1=equip=weapon=zbraň
+zub krysy:DMG=1=equip=weapon=zbraň
+jednoocasý bič:DMG=1=equip=weapon=zbraň
+dvojocasý bič:DMG=2=equip=weapon=zbraň
+trojocasý bič:DMG=3=equip=weapon=zbraň
+dýka:DMG=1=equip=weapon=zbraň
+meč:DMG=2=equip=weapon=zbraň
+
+žádný:DMG=0=equip=weapon=zbraň

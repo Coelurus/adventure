@@ -1,0 +1,33 @@
+4
+name:Krysák
+level:2
+HP:10
+DMG:2
+speed:1
+armor:1
+resist:PIERCING
+items:krysí bobky,močka,shnilé maso,víno,zub krysy
+name:Devíti ocasá kočka
+level:6
+HP:9
+DMG:4
+speed:4
+armor:1
+resist:FIRE
+items:jednoocasý bič,dvojocasý bič,trojocasý bič,shnilá myš,myš
+name:Jidášovo houba
+level:4
+HP:10
+DMG:3
+speed:0
+armor:2
+resist:WATER
+items:jidášův klobouk,noha jidáše
+name:Knuta
+level:5
+HP:10
+DMG:3
+speed:5
+armor:1
+resist:MAGIC
+items:bič,trhaná kůže

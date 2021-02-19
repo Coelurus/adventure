@@ -1,0 +1,17 @@
+level:1
+exp:0
+HP:20
+MaxHP:20
+DMG:-
+baseDMG:3
+speed:-
+baseSpeed:3
+armor:-
+baseArmor:1
+resist:PIERCING
+lruka:dýka
+pruka:meč
+helma:žádný
+torso:žádný
+kalhoty:žádný
+inv:meč;voda;kožená čapka
